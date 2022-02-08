@@ -1,0 +1,2 @@
+# companies_profit_prediction
+This report describes the use of machine learning model to predict future profit of companies based on the expenditures spent on their Marketing, Research and Development, and Administration. It also explains the implementation of multi-linear regression algorithm which was used to develop this model. This machine learning model uses a powerful technique which can be used to understand the factors that influence profitability of company.
